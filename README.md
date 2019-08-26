@@ -26,14 +26,14 @@ After applying consecutive dilation and opening we have output shown below:
                               
 We find connected component in the image contour/ blob. The Contours can be explained simply as a curve joining all the continuous points (along the boundary), having same color or intensity. The contours are a useful tool for shape analysis and object detection and recognition. Then we draw rectangle on that contour area the output shown below:
 
-![7](images/7.jpg)
+![7](images/7.png)
 
 
 ## Barn Field Detection:
 
 As it can be observed that barn field is quite different than other object in terms of color. So we are using color range for barn detection. We used this website for detecting [https://imagecolorpicker.com/](https://imagecolorpicker.com/) the color of barn field and choose a range from min BGR (100, 100, 100) to upper range BGR (180, 200, 200). After applying threshold on this we have the output shown below:
 
-![4](images/4.png)
+![4](images/4.jpg)
 
 
 After that we have found the biggest connected area and draw the contours boundary around it, the output shown below:
