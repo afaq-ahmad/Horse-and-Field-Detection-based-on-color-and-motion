@@ -55,6 +55,7 @@ After joining the two process together we have final results shown below:
         Compiler: jupyter Notebook 
 
 Required Libraries:
+        
         opencv: 		cv2.__version__>	3.4.3
         numpy:			np.__version__>		1.14.5
         
