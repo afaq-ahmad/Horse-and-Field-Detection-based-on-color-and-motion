@@ -63,3 +63,8 @@ Required Libraries:
         
      Place the video in the same directory or add the path. Because of motion of camera there is also noice motion detection that was
      removed using erode and dilation techniques. Video has been croped to avoid environment disturbance.
+
+
+
+#### Denote:
+Bitcoin: 3QFpMuvMcMaZ6cQUHqgrd2mDirz1JZi1W8
